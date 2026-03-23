@@ -172,3 +172,7 @@ About
 # Datasets HDF5 (trop gros pour GitHub)
 *.h5
 notebooks/data/in/
+
+notebooks/data/
+notebooks/data.zip
+*.csv
